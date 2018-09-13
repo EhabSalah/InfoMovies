@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar_master"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimary"
+    android:minHeight="?attr/actionBarSize"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+    app:contentInsetStartWithNavigation="0dp"
+    app:layout_scrollFlags="scroll|enterAlways|snap"><!--
+    app:contentInsetStart="0dp"
+
+    app:contentInsetLeft="0dp"
+    app:contentInsetStart="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"-->
+
+    <TextView
+        android:id="@+id/toolbar_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginEnd="10dp"
+        android:ellipsize="middle"
+        android:gravity="center"
+        android:singleLine="true"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="@color/tool_bar_title_color"
+         /><!--android:textSize="@dimen/toobar_title_font_size"
+        android:textStyle="bold"-->
+
+    <android.support.v7.widget.SearchView
+        android:id="@+id/mySearchView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:gravity="start"
+        android:iconifiedByDefault="false"
+        android:visibility="gone"
+        app:iconifiedByDefault="false"
+        app:queryHint="Search movie...">
+        <!--        android:paddingLeft="-16dp"
+                        android:paddingStart="-16dp"
+         android:paddingEnd="0dp"
+            app:theme="@style/SearchViewMy"
+-->
+    </android.support.v7.widget.SearchView>
+</android.support.v7.widget.Toolbar>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_default_height_material">48dp</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">32dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14dp</dimen>
+    <dimen name="poster_average_rate_font_size">12sp</dimen>
+    <dimen name="top_rated_movie_average_rate">12sp</dimen>
+    <dimen name="top_rated_movie_geners">12sp</dimen>
+    <dimen name="top_rated_movie_more_info">12sp</dimen>
+    <dimen name="top_rated_movie_overView">13sp</dimen>
+    <dimen name="top_rated_movie_release_date">13sp</dimen>
+    <dimen name="top_rated_movie_title">13.5sp</dimen>
+    <integer name="activate_scoll_toolbar_now_playing">4</integer>
+    <integer name="number_of_cols">4</integer>
+    <integer name="top_rated_number_of_cols">2</integer>
+    <style name="Widget.Design.TabLayout" parent="Base.Widget.Design.TabLayout">
+        <item name="tabGravity">center</item>
+        <item name="tabMode">fixed</item>
+    </style>
+</resources>

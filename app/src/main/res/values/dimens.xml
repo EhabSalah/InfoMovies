@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Font size-->
+    <dimen name="header_font">15.5dp</dimen>
+    <dimen name="title_font">15dp</dimen>
+    <dimen name="content_font">14dp</dimen>
+    <!--Font size-->
+
+    <!-- No Internet Layout -->
+    <dimen name="message_oh_no">25dp</dimen>
+    <dimen name="message_no_internet">15dp</dimen>
+    <!-- No Internet Layout -->
+
+    <!--TopRated Fragment-->
+
+    <dimen name="top_rated_movie_title">15dp</dimen>
+    <dimen name="top_rated_movie_average_rate">13dp</dimen>
+    <dimen name="top_rated_movie_geners">12.5dp</dimen>
+    <dimen name="top_rated_movie_overView">14dp</dimen>
+    <dimen name="top_rated_movie_more_info">13dp</dimen>
+    <dimen name="top_rated_movie_release_date">13.5dp</dimen>
+
+    <!--Setting Fragment--><!--Setting Fragment-->
+
+    <dimen name="setting_title">17dp</dimen>
+    <dimen name="setting_content">13dp</dimen>
+
+    <!--Setting Fragment-->
+
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!--Toolbar-->
+    <!--toolbar tite font size -->
+    <dimen name="toobar_title_font_size">18dp</dimen>
+    <!--toolbar tite font size -->
+
+    <!--Toolbar-->
+
+    <!--invalid date layout-->
+    <dimen name="invalid_date_ops_text_font_size">25dp</dimen>
+    <dimen name="invalid_date_details_font_size">15dp</dimen>
+    <!--invalid date layout-->
+
+
+    <dimen name="poster_average_rate_font_size">13dp</dimen>
+    <dimen name="margin_between_main_layouts_movie_fragment">25dp</dimen>
+    <dimen name="movie_fragment_movie_title_text_size">20dp</dimen>
+    <dimen name="movie_fragment_movie_genre_text_size">14dp</dimen>
+    <dimen name="movie_fragment_movie_release_date_text_size">14dp</dimen>
+    <dimen name="movie_fragment_movie_revenue_text_size">14dp</dimen>
+    <dimen name="movie_fragment_movie_runtime_text_size">14dp</dimen>
+    <dimen name="movie_fragment_movie_vote_average_text_size">18dp</dimen>
+    <dimen name="movie_fragment_movie_vote_average_max_text_size">14dp</dimen>
+    <dimen name="movie_fragment_movie_vote_count_text_size">14dp</dimen>
+    <dimen name="movie_fragment_title_text_size">18dp</dimen>
+    <dimen name="movie_fragment_movie_overview_text_size">16.5dp</dimen>
+    <dimen name="movie_fragment_movie_belongs_to_text_size">17dp</dimen>
+    <dimen name="movie_fragment_movie_language_text_size">14dp</dimen>
+    <dimen name="movie_fragment_movie_director_name_text_size">16dp</dimen>
+    <dimen name="movie_fragment_movie_sub_title_text_size">17dp</dimen>
+    <dimen name="movie_fragment_movie_production_name_text_size">15dp</dimen>
+    <dimen name="movie_fragment_movie_home_page_click_here_text_size">14.5dp</dimen>
+    <dimen name="movie_fragment_movie_tag_line_text_size">16dp</dimen>
+
+</resources>

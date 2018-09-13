@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Num of col in NowPlaying & Popular Fragments-->
+    <integer name="number_of_cols">4</integer>
+    <!--Num of col-->
+
+    <!--Num of col in TopRated Fragment-->
+    <integer name="top_rated_number_of_cols">2</integer>
+    <!--Num of col-->
+
+    <integer name="activate_scoll_toolbar_now_playing">4</integer>
+
+</resources>

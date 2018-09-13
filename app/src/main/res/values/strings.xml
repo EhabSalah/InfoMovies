@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">InfoMovies</string>
+    <!--<string name="admob_app_id">ca-app-pub-1379412728649791~9503555396</string>&lt;!&ndash;test&ndash;&gt;-->
+    <!--<string name="admob_movie_banner_id">ca-app-pub-3940256099942544/6300978111</string>&lt;!&ndash;test&ndash;&gt;-->
+    <!--<string name="admob_search_fragment_banner_id">ca-app-pub-3940256099942544/6300978111</string>&lt;!&ndash;test&ndash;&gt;-->
+
+    <!--Drawer-->
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+
+    <!-- Title Drawer Menu Items-->
+    <string name="nowPlayingMovies">In Theaters</string>
+    <string name="popularMovies">Trending</string>
+    <string name="topRatedMovies">Top Rated</string>
+    <string name="upComingMovies">Upcoming</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="about">About</string>
+    <string name="setting">Settings</string>
+    <!-- Title Drawer Menu Items-->
+
+    <!-- No Internet Layout -->
+    <string name="message_oh_no">Oh no!</string>
+    <string name="message_no_internet">No internet found. Check your connection or try again.</string>
+    <string name="try_again_text">Retry</string>
+
+    <string name="no_internet_snack_message">Check internet and refresh</string>
+
+    <!-- No Internet Layout -->
+
+    <!-- Sharedprefrences keys-->
+    <string name="user_info_file_key">user_info</string>
+
+    <!--Setting keys-->
+    <string name="key_user_shared_navigation_state">navigation_state</string>
+    <string name="poster_info_display_key">poster_info_display</string>
+    <!--Setting keys-->
+
+    <!--upcoming keys-->
+    <string name="upcoming_maximum_date_key">upcoming_maximum_date</string>
+    <string name="upcoming_sort_key">upcoming_sort</string>
+    <!--upcoming keys-->
+
+    <!--Now Playing Keys-->
+    <string name="nowplaying_sort_key">nowPlaying_sort</string>
+    <string name="nowplaying_release_date_asc">release_date.asc</string>
+    <string name="nowplaying_release_date_desc">release_date.desc</string>
+    <string name="nowplaying_vote_average_desc">vote_average.desc</string>
+    <string name="nowplaying_vote_average_asc">vote_average.asc</string>
+    <!--Now Playing Keys-->
+
+    <string name="popular_sort_key">popular_sort</string>
+
+    <!-- Sharedprefrences keys-->
+
+    <!--Setting Fragment-->
+    <string name="setting_show_movie_rate">Rate on poster</string>
+    <string name="setting_movie_rate_shown">Shown</string>
+    <string name="setting_movie_rate_hidden">Hidden</string>
+
+    <!--Setting Fragment-->
+
+    <!--Menu titles -->
+    <string name="menu_search_title">Search</string>
+    <string name="menu_sort_title">Sort</string>
+    <string name="menu_date_intervals_title">Maximum release date</string>
+    <!--Menu titles -->
+
+    <!--inValid Date Layout-->
+    <string name="invalid_date_layout_button_title">Select Maximum Release Date</string>
+    <string name="invalid_fragment_note_two">Please re-enter maximum date for showing upcoming movies.</string>
+    <string name="invalid_fragment_note_one">Maximum release date is not valid</string>
+    <string name="invalid_fragment_title">Oops !</string>
+
+    <!-- TODO: Search Fragment Tags and Keys -->
+    <string name="search_fragment_tag">search_fragment</string>
+    <string name="key_top_rated_genre_key">top_rated_genre</string>
+    <string name="key_top_rated_year_key">top_rated_year</string>
+    <string name="spinners_default_word_top_rated">None</string>
+    <string name="upcoming_genre_key">upcoming_genre_key</string>
+    <string name="menu_genre_title">Genre</string>
+    <string name="popular_genre_key">popular_genre_key</string>
+    <string name="nowplaying_genre_key">nowplaying_genre_key</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_fragment_tag">movie_fragment</string>
+    <string name="ic_add_to_list_title">Add to Watchlist</string>
+    <string name="movie_fragment_runtime_mins_word"> mins</string>
+    <string name="cast_crew"><![CDATA[Cast & Crew]]></string>
+    <string name="added_watchlist">✓  Added to Watchlist</string>
+    <string name="add_watchlist">+  Add To Watchlist</string>
+    <string name="setting_upcoming_notification_content_off"><![CDATA[Turn on & subscribe to your favourite genres]]></string>
+    <string name="setting_upcoming_notification_title">Upcoming daily notifying</string>
+    <string name="notification_data_key">notification_data</string>
+    <string name="notification_switch_key">upcoming_notification_switch</string>
+    <string name="notification_missed_name">key_missed</string>
+    <string name="setting_upcoming_notification_content_on">Tap to restrict genres</string>
+    <string name="share_app">Share App</string>
+    <string name="copy_sucess_message">Copied to clipboard</string>
+    <string name="big_pic_notification_summary">Is about to play in theaters. Tap to see more details.</string>
+    <string name="notification_watch_trailer_action">Trailer</string>
+    <string name="notification_watchlist_action">Watchlist</string>
+    <string name="notification_big_text_content_title">Coming soon</string>
+    <string name="notification_pig_pic_content_title">Coming soon</string>
+    <string name="splash_message">Your Movie Guide</string>
+    <string name="about_content_one">InfoMovies app is your guide to find best movies.\nIt gives you the ability to track and explore according to your favorite genres trending, in theaters, top rated and upcoming movies.</string>
+    <string name="about_content_two">This app uses the TMDb API but is not endorsed or certified by TMDb.</string>
+    <string name="rate_app">Rate App</string>
+    <string name="rate_sent_message">Your rate sent successfully</string>
+
+    <string-array name="genres">
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Animation</item>
+        <item>Comedy</item>
+        <item>Crime</item>
+        <item>Documentary</item>
+        <item>Drama</item>
+        <item>Family</item>
+        <item>Fantasy</item>
+        <item>History</item>
+        <item>Horror</item>
+        <item>Music</item>
+        <item>Mystery</item>
+        <item>Romance</item>
+        <item>Science Fiction</item>
+        <item>TV Movie</item>
+        <item>Thriller</item>
+        <item>War</item>
+        <item>Western</item>
+    </string-array>
+
+</resources>

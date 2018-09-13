@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:styled="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.info.movies.MainActivity"
+    android:orientation="vertical"
+    android:id="@+id/main_activity_layout">
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/main_appbar"
+            >
+                <include
+                    android:id="@+id/toolbar"
+                    layout="@layout/toolbar" />
+
+        </android.support.design.widget.AppBarLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/main_container"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"
+            />
+
+       <!-- <include layout="@layout/go_up_fab"/> -->
+</android.support.design.widget.CoordinatorLayout>
+

@@ -1,0 +1,302 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\InfoMovies\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\InfoMovies\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\InfoMovies\app\src\main\AndroidManifest.xml:2:1-66:12
+MERGED from [com.davemorrissey.labs:subsampling-scale-image-view:3.10.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\subsampling-scale-image-view-3.10.0.aar\48340902cae6bfa13f1e9accc9425e09\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\2252329e6d2ca6e386cee65376078433\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\8bbc2c7647927de5fb0e9ba36a5b0256\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\416e8ab3cf81a6acdc703f8fa9069236\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\4fba410159aec9ff5bc6b528ea29b9f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.1.aar\7cb0416f142898ce9e431e3443b831a3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\f8db1983189e335a45a84a52a296310a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\a186f47e9d4ff6aa8b747aec2b574306\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.1.aar\a7453731d0be0e8028a1913159c12c67\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\40ba4b24f6a2f96c08e96ef1b40483d2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\41a3f52ae4157df90d06045860545dd9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ae38b06b00485faa843cc4863ad8b957\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\00f5f97ca0c33a75c33191c81c919f58\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\25c66dfeeb91dca2a2104a9ff89f3864\AndroidManifest.xml:2:1-13:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ada59dff61b67c734e980c26e851357c\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\04a0b6a8b42762ace8d32698d008f634\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\3d01b5f6f6b65e362f233e3f8cf44e03\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\9c6ff3d88f2c2b8519f5576e1759c4ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\73326b66dd1d4b626984b44c700c00fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\dff1a7e31281a4ca7a8ea071e32bc1a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\67449dc7a68322572e099bf0f5b0c7c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\a54a3280ee4b27a175b8ce4f43158d4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\85650200739d54c624415ec5eba72494\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b7313433004ea238fbd45d32c0305488\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\9af36532585e435b1f42f45abada27cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\986bb08a5154efb5aec9d7ce92f6f9a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.1.aar\8b3f2bdebb9e35fc4198863b00221712\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9b0c876559e6a58c0f4cd553d0686f6d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\974078d6e19eae1c31c84d093de4683d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ef9e908110cb0306383913c38b223981\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\52a30de32a75f6b1d326df4407b6a137\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\InfoMovies\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\InfoMovies\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\InfoMovies\app\src\main\AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from D:\InfoMovies\app\src\main\AndroidManifest.xml
+		INJECTED from D:\InfoMovies\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\InfoMovies\app\src\main\AndroidManifest.xml
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from D:\InfoMovies\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\InfoMovies\app\src\main\AndroidManifest.xml
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from D:\InfoMovies\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\a186f47e9d4ff6aa8b747aec2b574306\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\a186f47e9d4ff6aa8b747aec2b574306\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\a186f47e9d4ff6aa8b747aec2b574306\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\a186f47e9d4ff6aa8b747aec2b574306\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:7:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:9:22-78
+application
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:11:5-64:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\f8db1983189e335a45a84a52a296310a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\f8db1983189e335a45a84a52a296310a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\a186f47e9d4ff6aa8b747aec2b574306\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\a186f47e9d4ff6aa8b747aec2b574306\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.1.aar\a7453731d0be0e8028a1913159c12c67\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.1.aar\a7453731d0be0e8028a1913159c12c67\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\40ba4b24f6a2f96c08e96ef1b40483d2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\40ba4b24f6a2f96c08e96ef1b40483d2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ae38b06b00485faa843cc4863ad8b957\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ae38b06b00485faa843cc4863ad8b957\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\25c66dfeeb91dca2a2104a9ff89f3864\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\25c66dfeeb91dca2a2104a9ff89f3864\AndroidManifest.xml:11:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ada59dff61b67c734e980c26e851357c\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ada59dff61b67c734e980c26e851357c\AndroidManifest.xml:7:5-12:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\85650200739d54c624415ec5eba72494\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\85650200739d54c624415ec5eba72494\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b7313433004ea238fbd45d32c0305488\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b7313433004ea238fbd45d32c0305488\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.1.aar\8b3f2bdebb9e35fc4198863b00221712\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.1.aar\8b3f2bdebb9e35fc4198863b00221712\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:16:9-54
+	android:largeHeap
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:15:9-33
+	android:icon
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.info.movies.activities.SplashActivity
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:20:9-29:20
+	android:screenOrientation
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:22:13-49
+	android:name
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:21:13-69
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.info.movies.activities.player.PlayerActivity
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:31:9-35:53
+	android:screenOrientation
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:35:13-50
+	android:launchMode
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:34:13-43
+	android:configChanges
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:33:13-59
+	android:name
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:32:13-76
+receiver#com.info.movies.constants.local_notification.MyAlarmReceiver
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:37:9-40:39
+	android:enabled
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:40:13-36
+	android:name
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:38:13-88
+receiver#com.info.movies.constants.local_notification.NetworkChangeReceiver
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:42:9-46:20
+	android:name
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:42:19-100
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:43:13-45:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:44:17-79
+	android:name
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:44:25-76
+receiver#com.info.movies.constants.local_notification.AutoStart
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:48:9-56:20
+	android:name
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:48:19-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON+category:name:android.intent.category.DEFAULT
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:49:13-55:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:50:17-79
+	android:name
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:50:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:51:17-82
+	android:name
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:51:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:52:17-82
+	android:name
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:52:25-79
+category#android.intent.category.DEFAULT
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:54:17-76
+	android:name
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:54:27-73
+receiver#com.info.movies.constants.local_notification.AddToWatchlistActionReceiver
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:57:9-110
+	android:name
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:57:19-107
+activity#com.info.movies.activities.image_slider.ImageSliderActivity
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:59:9-61:52
+	android:theme
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:61:13-49
+	android:name
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:60:13-87
+activity#com.info.movies.MainActivity
+ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:63:9-74
+	android:name
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml:63:19-62
+uses-sdk
+INJECTED from D:\InfoMovies\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\InfoMovies\app\src\main\AndroidManifest.xml
+INJECTED from D:\InfoMovies\app\src\main\AndroidManifest.xml
+MERGED from [com.davemorrissey.labs:subsampling-scale-image-view:3.10.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\subsampling-scale-image-view-3.10.0.aar\48340902cae6bfa13f1e9accc9425e09\AndroidManifest.xml:7:5-9:41
+MERGED from [com.davemorrissey.labs:subsampling-scale-image-view:3.10.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\subsampling-scale-image-view-3.10.0.aar\48340902cae6bfa13f1e9accc9425e09\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\2252329e6d2ca6e386cee65376078433\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\2252329e6d2ca6e386cee65376078433\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\8bbc2c7647927de5fb0e9ba36a5b0256\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\8bbc2c7647927de5fb0e9ba36a5b0256\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\416e8ab3cf81a6acdc703f8fa9069236\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\416e8ab3cf81a6acdc703f8fa9069236\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\4fba410159aec9ff5bc6b528ea29b9f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\4fba410159aec9ff5bc6b528ea29b9f6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.1.aar\7cb0416f142898ce9e431e3443b831a3\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.1.aar\7cb0416f142898ce9e431e3443b831a3\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\f8db1983189e335a45a84a52a296310a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\f8db1983189e335a45a84a52a296310a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\a186f47e9d4ff6aa8b747aec2b574306\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\a186f47e9d4ff6aa8b747aec2b574306\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.1.aar\a7453731d0be0e8028a1913159c12c67\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.1.aar\a7453731d0be0e8028a1913159c12c67\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\40ba4b24f6a2f96c08e96ef1b40483d2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\40ba4b24f6a2f96c08e96ef1b40483d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\41a3f52ae4157df90d06045860545dd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\41a3f52ae4157df90d06045860545dd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ae38b06b00485faa843cc4863ad8b957\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ae38b06b00485faa843cc4863ad8b957\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\00f5f97ca0c33a75c33191c81c919f58\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\00f5f97ca0c33a75c33191c81c919f58\AndroidManifest.xml:5:5-43
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\25c66dfeeb91dca2a2104a9ff89f3864\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\25c66dfeeb91dca2a2104a9ff89f3864\AndroidManifest.xml:7:5-9:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ada59dff61b67c734e980c26e851357c\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ada59dff61b67c734e980c26e851357c\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\04a0b6a8b42762ace8d32698d008f634\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\04a0b6a8b42762ace8d32698d008f634\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\3d01b5f6f6b65e362f233e3f8cf44e03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\3d01b5f6f6b65e362f233e3f8cf44e03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\9c6ff3d88f2c2b8519f5576e1759c4ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\9c6ff3d88f2c2b8519f5576e1759c4ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\73326b66dd1d4b626984b44c700c00fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\73326b66dd1d4b626984b44c700c00fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\dff1a7e31281a4ca7a8ea071e32bc1a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\dff1a7e31281a4ca7a8ea071e32bc1a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\67449dc7a68322572e099bf0f5b0c7c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\67449dc7a68322572e099bf0f5b0c7c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\a54a3280ee4b27a175b8ce4f43158d4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\a54a3280ee4b27a175b8ce4f43158d4b\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\85650200739d54c624415ec5eba72494\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\85650200739d54c624415ec5eba72494\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b7313433004ea238fbd45d32c0305488\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b7313433004ea238fbd45d32c0305488\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\9af36532585e435b1f42f45abada27cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\9af36532585e435b1f42f45abada27cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\986bb08a5154efb5aec9d7ce92f6f9a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\986bb08a5154efb5aec9d7ce92f6f9a8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.1.aar\8b3f2bdebb9e35fc4198863b00221712\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.1.aar\8b3f2bdebb9e35fc4198863b00221712\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9b0c876559e6a58c0f4cd553d0686f6d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9b0c876559e6a58c0f4cd553d0686f6d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\974078d6e19eae1c31c84d093de4683d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\974078d6e19eae1c31c84d093de4683d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ef9e908110cb0306383913c38b223981\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ef9e908110cb0306383913c38b223981\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\52a30de32a75f6b1d326df4407b6a137\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\52a30de32a75f6b1d326df4407b6a137\AndroidManifest.xml:20:5-44
+INJECTED from D:\InfoMovies\app\src\main\AndroidManifest.xml
+INJECTED from D:\InfoMovies\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.1.aar\7cb0416f142898ce9e431e3443b831a3\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\InfoMovies\app\src\main\AndroidManifest.xml
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml
+		INJECTED from D:\InfoMovies\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\InfoMovies\app\src\main\AndroidManifest.xml
+		ADDED from D:\InfoMovies\app\src\main\AndroidManifest.xml
+		INJECTED from D:\InfoMovies\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\a186f47e9d4ff6aa8b747aec2b574306\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\a186f47e9d4ff6aa8b747aec2b574306\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\a186f47e9d4ff6aa8b747aec2b574306\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\a186f47e9d4ff6aa8b747aec2b574306\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\a186f47e9d4ff6aa8b747aec2b574306\AndroidManifest.xml:30:13-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\40ba4b24f6a2f96c08e96ef1b40483d2\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\40ba4b24f6a2f96c08e96ef1b40483d2\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\40ba4b24f6a2f96c08e96ef1b40483d2\AndroidManifest.xml:24:13-58
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ada59dff61b67c734e980c26e851357c\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ada59dff61b67c734e980c26e851357c\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ada59dff61b67c734e980c26e851357c\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ada59dff61b67c734e980c26e851357c\AndroidManifest.xml:9:13-64
+meta-data#android.support.VERSION
+ADDED from [com.android.support:customtabs:26.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b7313433004ea238fbd45d32c0305488\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b7313433004ea238fbd45d32c0305488\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\Ehab Salah\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b7313433004ea238fbd45d32c0305488\AndroidManifest.xml:24:13-51

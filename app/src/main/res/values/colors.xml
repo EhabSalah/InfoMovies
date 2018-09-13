@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#393939</color>
+    <color name="colorPrimaryDark">#1D1D1D</color>
+    <color name="colorAccent">#F6D61F</color>
+    <color name="textColorPrimary">#FF4081</color>
+    <color name="translucent_black">#78000000</color>
+    <color name="navigation_icons_color">#96c3bcc4</color>
+    <color name="navigation_view_background">#191919</color>
+    <color name="tool_bar_title_color">#ffffff</color>
+    <color name="topRated_header_background">#303030</color>
+    <color name="trailer_thumbnail_foreground">#32545454</color>
+    <color name="video_thumbnail_foreground">#32545454</color>
+    <color name="item_card_background">#2A2A2A</color>
+    <color name="images_holder_background">#20000000</color>
+    <color name="click_here_for_home_page_color">#03A9F4</color>
+    <color name="white_color">#ffffff</color>
+    <color name="window_background_color">#191919</color>
+    <color name="main_card_view_background_color">#212121</color>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--TODO: now playing and popular item poster-->
+    <dimen name="poster_average_rate_font_size">12sp</dimen>
+
+    <!--TODO: TopRated Fragment-->
+
+    <dimen name="top_rated_movie_title">13.5sp</dimen>
+    <dimen name="top_rated_movie_average_rate">12sp</dimen>
+    <dimen name="top_rated_movie_geners">12sp</dimen>
+    <dimen name="top_rated_movie_overView">13sp</dimen>
+    <dimen name="top_rated_movie_more_info">12sp</dimen>
+    <dimen name="top_rated_movie_release_date">13sp</dimen>
+</resources>

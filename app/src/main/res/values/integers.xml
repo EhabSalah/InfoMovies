@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Num of col-->
+    <integer name="number_of_cols">3</integer>
+    <!--Num of col-->
+
+    <!--Num of col in TopRated Fragment-->
+    <integer name="top_rated_number_of_cols">1</integer>
+    <!--Num of col-->
+
+    <integer name="load_cross_fade_posters">400</integer>
+    <integer name="minimumYear">1970</integer>
+
+    <integer name="activate_scoll_toolbar_now_playing">2</integer>
+    <integer name="notification_interval_hour">5</integer>
+    <integer name="splash_duration_seconds">3</integer>
+    <integer name="notification_alarm_set_trigger_at_minutes_power_on">60</integer>
+    <integer name="setting_daily_notification_on_vibrate_milis">40</integer>
+
+
+</resources>

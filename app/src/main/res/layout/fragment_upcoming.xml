@@ -1,0 +1,76 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.info.movies.fargments.upcoming.UpcomingFragment"
+    android:orientation="vertical">
+
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/upcoming_fragment_progressBar"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="5dp"
+        android:visibility="gone"
+        android:indeterminate="true"
+        android:indeterminateTintMode="src_atop"
+        android:indeterminateTint="@color/colorAccent"
+        style="?android:attr/progressBarStyle"
+        />
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        android:id="@+id/upcoming_fragment_swipeRefreshLayout">
+            <android.support.v7.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/upcoming_fragment_RecyclerView"
+                android:scrollbars="vertical"
+            />
+    </android.support.v4.widget.SwipeRefreshLayout>
+    <!-- No Internet Layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/upcoming_fragment_no_internet_layout"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:visibility="gone"
+        >
+        <include
+            layout="@layout/no_internet_layout"
+            />
+    </LinearLayout>
+    <!-- No Internet Layout -->
+
+    <!--InValid Date Layout-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:id="@+id/upcoming_fragment_invalid_date_layout"
+        android:visibility="gone"
+        >
+        <include
+            layout="@layout/fragment_upcoming_invalid_date_layout"
+            />
+    </LinearLayout>
+    <!--InValid Date Layout-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:id="@+id/upcoming_fragment_no_movies_layout"
+        android:visibility="gone"
+        >
+        <include
+            layout="@layout/fragment_no_movies_found"
+            />
+    </LinearLayout>
+
+</LinearLayout>
